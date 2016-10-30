@@ -1,9 +1,9 @@
 {
 	"name": "Fullwidth Image",
-	"description": "Make visited image file fullwidth by simply pressing Alt + B",
+	"description": "Fullwidth Image plugin makes your image fit to screen.",
 	"version": "1.0",
 	"manifest_version": 2,
-	"homepage_url": "https://github.com/getanwar/",
+	"homepage_url": "https://github.com/getanwar/fullwidth-image",
 
 	"permissions": [
 		"activeTab"
